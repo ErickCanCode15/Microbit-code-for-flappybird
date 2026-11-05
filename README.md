@@ -1,2 +1,2 @@
-# Microbit-code-for-flappybird
+# Microbit-codes/15
 ONLY WORKS WITH MICROBIT
